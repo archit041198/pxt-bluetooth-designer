@@ -1,0 +1,27 @@
+{
+  "name": "pxt-microbit-web-bluetooth",
+  "version": "0.0.0",
+  "description": "TypeScript/JavaScript library for BBC micro:bit and WebBluetooth ",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc microbit.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsoft/pxt-microbit-web-bluetooth.git"
+  },
+  "keywords": [
+    "MakeCode",
+    "micro:bit"
+  ],
+  "author": "Microsoft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Microsoft/pxt-microbit-web-bluetooth/issues"
+  },
+  "homepage": "https://github.com/Microsoft/pxt-microbit-web-bluetooth#readme",
+  "dependencies": {
+    "typescript": "^3.1.3"
+  }
+}
