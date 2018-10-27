@@ -1,5 +1,5 @@
 <h1 align = center> TypeScript helper for BBC micro:bit Web Bluetooth
-</h1><br>
+</h1>
 
 ------
 
