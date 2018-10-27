@@ -1,5 +1,9 @@
+<h1 align = center> TypeScript helper for BBC micro:bit Web Bluetooth
+</h1><br>
 
-# Contributing
+------
+
+# Contributing:
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
